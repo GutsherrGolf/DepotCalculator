@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "isin": "DE0007100000",
+      "name": "Siemens AG",
+      "currentPrice": 130.75
+    },
+    {
+      "isin": "US0378331005",
+      "name": "Apple Inc.",
+      "currentPrice": 160.50
+    }
+  ]
+}
